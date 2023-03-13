@@ -19,10 +19,10 @@ public class EasyoopsApplication extends SpringBootServletInitializer {
 	}
 
 	void function1 () {
-
+		// 브렌치 테스트를 위하여 코스 수정
 	}
 
 	void function2 () {
-
+		String s = "";
 	}
 }
