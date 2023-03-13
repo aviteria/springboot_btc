@@ -23,6 +23,6 @@ public class EasyoopsApplication extends SpringBootServletInitializer {
 	}
 
 	void function2 () {
-
+		String s = "";
 	}
 }
