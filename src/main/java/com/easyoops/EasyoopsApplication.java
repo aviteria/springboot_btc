@@ -17,4 +17,12 @@ public class EasyoopsApplication extends SpringBootServletInitializer {
 	@Override protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(EasyoopsApplication.class);
 	}
+
+	void function1 () {
+
+	}
+
+	void function2 () {
+
+	}
 }
